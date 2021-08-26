@@ -1,4 +1,3 @@
 # RSA-encryption-decryption
 
-
-contains project source code in pdf format.
+Download the pdf file to view source code
